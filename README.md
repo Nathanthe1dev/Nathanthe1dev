@@ -39,7 +39,7 @@ Languages
 Web
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react" alt="Web technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs" alt="Web technologies" />
 </p>
 
 Tools & Systems
@@ -48,11 +48,11 @@ Tools & Systems
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Tools and systems" />
 </p>
 
-AI / ML
+<!-- TAI / ML
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="AI and ML technologies" />
-</p>
+</p> -->
 
 <!-- ===================== PROJECTS ===================== -->
 
