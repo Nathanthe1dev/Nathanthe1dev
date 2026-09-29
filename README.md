@@ -36,54 +36,130 @@ CSE (AI/ML) undergrad
 
 ### Languages
 
-<p align="center">
-<a href="https://skillicons.dev/icons?i=python"><img src="https://skillicons.dev/icons?i=python" width="52" alt="Python" /><br><sub>Python</sub></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://skillicons.dev/icons?i=cpp"><img src="https://skillicons.dev/icons?i=cpp" width="52" alt="C++" /><br><sub>C++</sub></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://skillicons.dev/icons?i=java"><img src="https://skillicons.dev/icons?i=java" width="52" alt="Java" /><br><sub>Java</sub></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://skillicons.dev/icons?i=c"><img src="https://skillicons.dev/icons?i=c" width="52" alt="C" /><br><sub>C</sub></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://skillicons.dev/icons?i=javascript"><img src="https://skillicons.dev/icons?i=javascript" width="52" alt="JavaScript" /><br><sub>JavaScript</sub></a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://skillicons.dev/icons?i=python">
+        <img src="https://skillicons.dev/icons?i=python" width="52" alt="Python"><br>
+        <sub>Python</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev/icons?i=cpp">
+        <img src="https://skillicons.dev/icons?i=cpp" width="52" alt="C++"><br>
+        <sub>C++</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev/icons?i=java">
+        <img src="https://skillicons.dev/icons?i=java" width="52" alt="Java"><br>
+        <sub>Java</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev/icons?i=c">
+        <img src="https://skillicons.dev/icons?i=c" width="52" alt="C"><br>
+        <sub>C</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev/icons?i=javascript">
+        <img src="https://skillicons.dev/icons?i=javascript" width="52" alt="JavaScript"><br>
+        <sub>JavaScript</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### Web
 
-<p align="center">
-<a href="https://skillicons.dev/icons?i=html"><img src="https://skillicons.dev/icons?i=html" width="52" alt="HTML" /><br><sub>HTML</sub></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://skillicons.dev/icons?i=css"><img src="https://skillicons.dev/icons?i=css" width="52" alt="CSS" /><br><sub>CSS</sub></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://skillicons.dev/icons?i=nodejs"><img src="https://skillicons.dev/icons?i=nodejs" width="52" alt="Node.js" /><br><sub>Node.js</sub></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<!--
-<a href="https://skillicons.dev/icons?i=react"><img src="https://skillicons.dev/icons?i=react" width="52" alt="React" /><br><sub>React</sub></a>
-</p>
--->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://skillicons.dev/icons?i=html">
+        <img src="https://skillicons.dev/icons?i=html" width="52" alt="HTML"><br>
+        <sub>HTML</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev/icons?i=css">
+        <img src="https://skillicons.dev/icons?i=css" width="52" alt="CSS"><br>
+        <sub>CSS</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev/icons?i=nodejs">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="52" alt="Node.js"><br>
+        <sub>Node.js</sub>
+      </a>
+    </td>
+    <!--
+    <td align="center">
+      <a href="https://skillicons.dev/icons?i=react">
+        <img src="https://skillicons.dev/icons?i=react" width="52" alt="React"><br>
+        <sub>React</sub>
+      </a>
+    </td>
+    -->
+  </tr>
+</table>
 
 ### Tools & Systems
 
-<p align="center">
-<a href="https://skillicons.dev/icons?i=git"><img src="https://skillicons.dev/icons?i=git" width="52" alt="Git" /><br><sub>Git</sub></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://skillicons.dev/icons?i=github"><img src="https://skillicons.dev/icons?i=github" width="52" alt="GitHub" /><br><sub>GitHub</sub></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://skillicons.dev/icons?i=vscode"><img src="https://skillicons.dev/icons?i=vscode" width="52" alt="VS Code" /><br><sub>VS Code</sub></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://skillicons.dev/icons?i=linux"><img src="https://skillicons.dev/icons?i=linux" width="52" alt="Linux" /><br><sub>Linux</sub></a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://skillicons.dev/icons?i=git">
+        <img src="https://skillicons.dev/icons?i=git" width="52" alt="Git"><br>
+        <sub>Git</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev/icons?i=github">
+        <img src="https://skillicons.dev/icons?i=github" width="52" alt="GitHub"><br>
+        <sub>GitHub</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev/icons?i=vscode">
+        <img src="https://skillicons.dev/icons?i=vscode" width="52" alt="VS Code"><br>
+        <sub>VS Code</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev/icons?i=linux">
+        <img src="https://skillicons.dev/icons?i=linux" width="52" alt="Linux"><br>
+        <sub>Linux</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!--
 ### AI / ML
 
-<p align="center">
-<a href="https://skillicons.dev/icons?i=pytorch"><img src="https://skillicons.dev/icons?i=pytorch" width="52" alt="PyTorch" /><br><sub>PyTorch</sub></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://skillicons.dev/icons?i=tensorflow"><img src="https://skillicons.dev/icons?i=tensorflow" width="52" alt="TensorFlow" /><br><sub>TensorFlow</sub></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://skillicons.dev/icons?i=python"><img src="https://skillicons.dev/icons?i=python" width="52" alt="Python" /><br><sub>Python</sub></a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://skillicons.dev/icons?i=pytorch">
+        <img src="https://skillicons.dev/icons?i=pytorch" width="52" alt="PyTorch"><br>
+        <sub>PyTorch</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev/icons?i=tensorflow">
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="52" alt="TensorFlow"><br>
+        <sub>TensorFlow</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev/icons?i=python">
+        <img src="https://skillicons.dev/icons?i=python" width="52" alt="Python"><br>
+        <sub>Python</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 -->
 ---
