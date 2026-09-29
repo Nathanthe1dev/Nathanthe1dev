@@ -1,8 +1,8 @@
-  <!-- ===================== HEADER ===================== -->
+<!-- ===================== HEADER ===================== -->
 
 <div align="center">
 
-Hey, I'm Nathan 👋
+# Hey, I'm Nathan 👋
 
 <a href="https://github.com/Nathanthe1dev">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=code+%3E+coffee+%3E+repeat;building+things+that+shouldn't+exist;AI+%7C+Web+%7C+Systems;turning+ideas+into+repos" alt="Typing SVG" />
@@ -14,51 +14,77 @@ Hey, I'm Nathan 👋
 
 </div>
 
-<!-- ===================== ABOUT ME ===================== -->
+---
 
-🧠 About Me
+## 🧠 About Me
 
+```text
 CSE (AI/ML) undergrad
 ⚙️ Full-stack tinkerer
 🤖 AI/ML explorer
 🧩 Problem solver
 🛠️ Builder > spectator
+```
 
-Turning caffeine, curiosity and questionable ideas into working software.
+> Turning caffeine, curiosity and questionable ideas into working software.
 
-<!-- ===================== TECH STACK ===================== -->
+---
 
-⚡ Tech Stack
+## ⚡ Tech Stack
 
-Languages
+### Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,c,js" alt="Languages" />
+<a href="https://skillicons.dev/icons?i=python"><img src="https://skillicons.dev/icons?i=python" width="52" alt="Python" /><br><sub>Python</sub></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://skillicons.dev/icons?i=cpp"><img src="https://skillicons.dev/icons?i=cpp" width="52" alt="C++" /><br><sub>C++</sub></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://skillicons.dev/icons?i=java"><img src="https://skillicons.dev/icons?i=java" width="52" alt="Java" /><br><sub>Java</sub></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://skillicons.dev/icons?i=c"><img src="https://skillicons.dev/icons?i=c" width="52" alt="C" /><br><sub>C</sub></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://skillicons.dev/icons?i=javascript"><img src="https://skillicons.dev/icons?i=javascript" width="52" alt="JavaScript" /><br><sub>JavaScript</sub></a>
 </p>
 
-Web
+### Web
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs" alt="Web technologies" />
+<a href="https://skillicons.dev/icons?i=html"><img src="https://skillicons.dev/icons?i=html" width="52" alt="HTML" /><br><sub>HTML</sub></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://skillicons.dev/icons?i=css"><img src="https://skillicons.dev/icons?i=css" width="52" alt="CSS" /><br><sub>CSS</sub></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://skillicons.dev/icons?i=nodejs"><img src="https://skillicons.dev/icons?i=nodejs" width="52" alt="Node.js" /><br><sub>Node.js</sub></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://skillicons.dev/icons?i=react"><img src="https://skillicons.dev/icons?i=react" width="52" alt="React" /><br><sub>React</sub></a>
 </p>
 
-Tools & Systems
+### Tools & Systems
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Tools and systems" />
+<a href="https://skillicons.dev/icons?i=git"><img src="https://skillicons.dev/icons?i=git" width="52" alt="Git" /><br><sub>Git</sub></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://skillicons.dev/icons?i=github"><img src="https://skillicons.dev/icons?i=github" width="52" alt="GitHub" /><br><sub>GitHub</sub></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://skillicons.dev/icons?i=vscode"><img src="https://skillicons.dev/icons?i=vscode" width="52" alt="VS Code" /><br><sub>VS Code</sub></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://skillicons.dev/icons?i=linux"><img src="https://skillicons.dev/icons?i=linux" width="52" alt="Linux" /><br><sub>Linux</sub></a>
 </p>
 
-<!-- TAI / ML
+### AI / ML
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="AI and ML technologies" />
-</p> -->
+<a href="https://skillicons.dev/icons?i=pytorch"><img src="https://skillicons.dev/icons?i=pytorch" width="52" alt="PyTorch" /><br><sub>PyTorch</sub></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://skillicons.dev/icons?i=tensorflow"><img src="https://skillicons.dev/icons?i=tensorflow" width="52" alt="TensorFlow" /><br><sub>TensorFlow</sub></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://skillicons.dev/icons?i=python"><img src="https://skillicons.dev/icons?i=python" width="52" alt="Python" /><br><sub>Python</sub></a>
+</p>
 
-<!-- ===================== PROJECTS ===================== -->
+---
 
-🚀 Projects
+## 🚀 Projects
 
-building → breaking → debugging → shipping
+> `building → breaking → debugging → shipping`
 
 Currently cooking some things. 🍳
 
@@ -68,93 +94,75 @@ Currently cooking some things. 🍳
   </a>
 </p>
 
-<!-- ===================== GITHUB STATS ===================== -->
+---
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Nathanthe1dev&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true"
-    height="170"
-    alt="GitHub stats"
-  />
-
-<img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanthe1dev&layout=compact&hide_border=true&theme=transparent"
- height="170"
- alt="Top languages"
-/>
-
+  <img src="./profile/stats.svg" height="170" alt="GitHub stats" />
+  <img src="./profile/top-langs.svg" height="170" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Nathanthe1dev&theme=transparent&hide_border=true"
-    alt="GitHub streak"
-  />
+  <img src="https://streak-stats.demolab.com/?user=Nathanthe1dev&theme=transparent&hide_border=true" alt="GitHub streak" />
 </p>
 
-<!-- ===================== CODING PROFILES ===================== -->
+---
 
-🧩 Coding Profiles
+## 🧩 Coding Profiles
 
+```text
 LeetCode   → building
 Codeforces → building
 CodeChef   → building
 HackerRank → building
+```
 
-<!-- ===================== CONNECT ===================== -->
+---
 
-🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/the-nathan-holt">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=nathan.coding1@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-<a href="https://github.com/Nathanthe1dev">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
+<a href="https://www.linkedin.com/in/the-nathan-holt"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=nathan.coding1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/Nathanthe1dev"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-<!-- ===================== ACTIVITY ===================== -->
+---
 
-📈 Activity
+## 📈 Activity
 
 <p align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Nathanthe1dev/Nathanthe1dev/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Nathanthe1dev/Nathanthe1dev/output/github-snake.svg"
-    />
-    <img
-      alt="GitHub contribution snake"
-      src="https://raw.githubusercontent.com/Nathanthe1dev/Nathanthe1dev/output/github-snake.svg"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nathanthe1dev/Nathanthe1dev/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nathanthe1dev/Nathanthe1dev/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Nathanthe1dev/Nathanthe1dev/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
-<!-- ===================== FOOTER ===================== -->
+---
+
+## `// FOOTER :: SYSTEM STATUS`
 
 <div align="center">
 
-while(alive) { learn(); build(); repeat(); }
+```text
+╭────────────────────────────────────────────────────╮
+│  nathan@github:~$ ./profile --status               │
+│                                                    │
+│  STATUS  :: ONLINE                                 │
+│  MODE    :: BUILD > DEBUG > SHIP                  │
+│  STACK   :: AI / WEB / SYSTEMS                    │
+│  STATE   :: ALWAYS_LEARNING()                     │
+╰────────────────────────────────────────────────────╯
+```
 
-<br>
+<img src="https://komarev.com/ghpvc/?username=Nathanthe1dev&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0D1117&color=58A6FF" alt="Profile views" />
 
-<img
-src="https://komarev.com/ghpvc/?username=Nathanthe1dev&style=flat-square&color=58A6FF"
-alt="Profile views"
-/>
+<br><br>
+
+### `while(alive) { learn(); build(); repeat(); }`
+
+<sub>// end_of_file.exe</sub>
 
 </div>
