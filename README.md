@@ -34,7 +34,7 @@ CSE (AI/ML) undergrad
 
 ## ⚡ Tech Stack
 
-### Languages
+###  Languages & Technologies
 
 <table>
   <tr>
@@ -68,13 +68,6 @@ CSE (AI/ML) undergrad
         <sub>JavaScript</sub>
       </a>
     </td>
-  </tr>
-</table>
-
-### Web & Frontend
-
-<table>
-  <tr>
     <td align="center">
       <a href="https://skillicons.dev/icons?i=html">
         <img src="https://skillicons.dev/icons?i=html" width="52" alt="HTML"><br>
@@ -96,7 +89,7 @@ CSE (AI/ML) undergrad
   </tr>
 </table>
 
-### 3D / Creative Web
+### Libraries, Frameworks & Tools
 
 <table>
   <tr>
@@ -107,28 +100,9 @@ CSE (AI/ML) undergrad
       </a>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=javascript" width="52" alt="Canvas API"><br>
-      <sub>Canvas API</sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=javascript" width="52" alt="Web Audio API"><br>
-      <sub>Web Audio</sub>
-    </td>
-    <td align="center">
       <img src="https://skillicons.dev/icons?i=javascript" width="52" alt="GSAP"><br>
       <sub>GSAP</sub>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=javascript" width="52" alt="WebGL"><br>
-      <sub>WebGL</sub>
-    </td>
-  </tr>
-</table>
-
-### Tools & Systems
-
-<table>
-  <tr>
     <td align="center">
       <a href="https://skillicons.dev/icons?i=git">
         <img src="https://skillicons.dev/icons?i=git" width="52" alt="Git"><br>
