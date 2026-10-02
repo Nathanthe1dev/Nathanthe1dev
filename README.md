@@ -5,7 +5,7 @@
 # Hey, I'm Nathan 👋
 
 <a href="https://github.com/Nathanthe1dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=code+%3E+coffee+%3E+repeat;building+things+that+shouldn't+exist;AI+%7C+Web+%7C+Systems;turning+ideas+into+repos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=code+%3E+coffee+%3E+repeat;building+things+that+shouldn't+exist;AI+%7C+Web+%7C+Systems;turning+ideas+into+repos" alt="Typing SVG">
 </a>
 
 <br>
@@ -71,7 +71,7 @@ CSE (AI/ML) undergrad
   </tr>
 </table>
 
-### Web
+### Web & Frontend
 
 <table>
   <tr>
@@ -93,14 +93,35 @@ CSE (AI/ML) undergrad
         <sub>Node.js</sub>
       </a>
     </td>
-    <!--
+  </tr>
+</table>
+
+### 3D / Creative Web
+
+<table>
+  <tr>
     <td align="center">
-      <a href="https://skillicons.dev/icons?i=react">
-        <img src="https://skillicons.dev/icons?i=react" width="52" alt="React"><br>
-        <sub>React</sub>
+      <a href="https://skillicons.dev/icons?i=threejs">
+        <img src="https://skillicons.dev/icons?i=threejs" width="52" alt="Three.js"><br>
+        <sub>Three.js</sub>
       </a>
     </td>
-    -->
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=javascript" width="52" alt="Canvas API"><br>
+      <sub>Canvas API</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=javascript" width="52" alt="Web Audio API"><br>
+      <sub>Web Audio</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=javascript" width="52" alt="GSAP"><br>
+      <sub>GSAP</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=javascript" width="52" alt="WebGL"><br>
+      <sub>WebGL</sub>
+    </td>
   </tr>
 </table>
 
@@ -130,6 +151,12 @@ CSE (AI/ML) undergrad
       <a href="https://skillicons.dev/icons?i=linux">
         <img src="https://skillicons.dev/icons?i=linux" width="52" alt="Linux"><br>
         <sub>Linux</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev/icons?i=vite">
+        <img src="https://skillicons.dev/icons?i=vite" width="52" alt="Vite"><br>
+        <sub>Vite</sub>
       </a>
     </td>
   </tr>
@@ -162,13 +189,22 @@ CSE (AI/ML) undergrad
 </table>
 
 -->
+
 ---
 
 ## 🚀 Projects
 
-> `building → breaking → debugging
+> `building → breaking → debugging → shipping`
 
-Currently cooking some things. 🍳
+### 🛰️ ORBITAL-01 — The Last Signal
+
+`Three.js` `JavaScript` `GSAP` `WebGL` `Vite`
+
+> Interactive deep-space mission control with 3D flight, live telemetry, radar, missions, targeting and a command terminal.
+
+[**Live Demo →**](https://nathanthe1dev.github.io/orbital-01/) · [**Repo →**](https://github.com/Nathanthe1dev/orbital-01)
+
+---
 
 <p align="center">
   <a href="https://github.com/Nathanthe1dev?tab=repositories">
@@ -190,6 +226,7 @@ Currently cooking some things. 🍳
 </p>
 
 ---
+
 <!--
 ## 🧩 Coding Profiles
 
@@ -238,7 +275,7 @@ HackerRank → building
 ╰────────────────────────────────────────────────────╯
 ```
 
-<img src="https://komarev.com/ghpvc/?username=Nathanthe1dev&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0D1117&color=58A6FF" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Nathanthe1dev&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0D1111&color=58A6FF" alt="Profile views" />
 
 <br><br>
 
