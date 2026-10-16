@@ -86,6 +86,12 @@ CSE (AI/ML) undergrad
         <sub>Node.js</sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://skillicons.dev/icons?i=typescript">
+        <img src="https://skillicons.dev/icons?i=typescript" width="52" alt="Node.js"><br>
+        <sub>Typescript</sub>
+      </a>
+    </td>
   </tr>
 </table>
 
@@ -98,10 +104,6 @@ CSE (AI/ML) undergrad
         <img src="https://skillicons.dev/icons?i=threejs" width="52" alt="Three.js"><br>
         <sub>Three.js</sub>
       </a>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=javascript" width="52" alt="GSAP"><br>
-      <sub>GSAP</sub>
     </td>
     <td align="center">
       <a href="https://skillicons.dev/icons?i=git">
@@ -136,36 +138,6 @@ CSE (AI/ML) undergrad
   </tr>
 </table>
 
-<!--
-### AI / ML
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://skillicons.dev/icons?i=pytorch">
-        <img src="https://skillicons.dev/icons?i=pytorch" width="52" alt="PyTorch"><br>
-        <sub>PyTorch</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://skillicons.dev/icons?i=tensorflow">
-        <img src="https://skillicons.dev/icons?i=tensorflow" width="52" alt="TensorFlow"><br>
-        <sub>TensorFlow</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://skillicons.dev/icons?i=python">
-        <img src="https://skillicons.dev/icons?i=python" width="52" alt="Python"><br>
-        <sub>Python</sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
--->
-
----
-
 ## 🚀 Projects
 
 > `building → breaking → debugging → shipping`
@@ -198,20 +170,6 @@ CSE (AI/ML) undergrad
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Nathanthe1dev&theme=transparent&hide_border=true" alt="GitHub streak" />
 </p>
-
----
-
-<!--
-## 🧩 Coding Profiles
-
-```text
-LeetCode   → building
-Codeforces → building
-CodeChef   → building
-HackerRank → building
-```
-
--->
 
 ## 🌐 Connect With Me
 
